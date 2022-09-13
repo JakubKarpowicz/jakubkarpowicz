@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
-<h3 align="center">Maybe future frontend developer.</h3>
+<h3 align="center"></h3>
 
-- 🌱 I’m currently learning **frontend**
+- 💻 I’m currently learning **frontend**
 
-- 👨‍💻 All of my projects are available at [jakubkarpowicz.pl](jakubkarpowicz.pl)
+- 📫 mail **kubakarpowiczinf@gmail.com**
 
-- 📫 How to reach me **kubakarpowiczinf@gmail.com**
-
-- ⚡ Fun fact **I'm lazy**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://codepen.io/jakubkarpowicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jakubkarpowicz" height="30" width="40" /></a>
 <a href="https://instagram.com/karpiu___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karpiu___" height="30" width="40" /></a>
