@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jacob</h1>
 <h3 align="center"></h3>
 
-- 💻 I’m currently learning **frontend**
+- 💻 I’m currently learning **css, js**
 
 - 📫 mail **kubakarpowiczinf@gmail.com**
 
